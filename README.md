@@ -20,7 +20,7 @@ No install necessary
 
 ## Solution
 
-[Deployed application](https://tr4ck3r-0f-budg3ts.herokuapp.com/)
+[Deployed application](https://tr4ck3r-0f-budg3ts.herokuapp.com/) <br/>
 [GITHUB Repo](https://github.com/stewk033/budget-tracker)
 
 ## Author
