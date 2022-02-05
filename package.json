@@ -4,8 +4,6 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "webpack": "webpack --watch",
-    "build": "webpack",
     "start:dev": "webpack-dev-server",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
@@ -25,17 +23,7 @@
     "compression": "^1.7.4",
     "express": "^4.17.1",
     "file-loader": "^6.2.0",
-    "html-webpack-plugin": "^5.5.0",
-    "image-webpack-loader": "^8.1.0",
     "mongoose": "^5.5.15",
-    "morgan": "^1.9.1",
-    "webpack-bundle-analyzer": "^4.5.0",
-    "webpack-dev-server": "^4.7.4",
-    "webpack-manifest-plugin": "^4.1.1",
-    "webpack-pwa-manifest": "^4.3.0"
-  },
-  "devDependencies": {
-    "webpack": "^5.68.0",
-    "webpack-cli": "^4.9.2"
+    "morgan": "^1.9.1"
   }
 }
